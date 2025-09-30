@@ -10,3 +10,6 @@
 
 ## Language:
 - Java (Console-based)
+
+# Simple bill
+এই অ্যাপটি আইটেম গুলোর টোটাল ট্যাক্স সহ বিল দেখিয়ে থাকে।
